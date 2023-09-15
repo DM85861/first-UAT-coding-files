@@ -1,0 +1,35 @@
+h1
+{
+    color:aquamarine;
+    text-align: center;
+}
+nav
+{
+    display: block;
+    background-color: darkgrey;
+}
+body{
+  /* background-color: darkorange; 
+    background-image: linear-gradient(red,green); */
+    background-image: radial-gradient(pink,blue);
+    background-repeat: no-repeat;
+    }
+
+    .buttonsDM
+    {
+        background-color: darkgrey;
+        border-color: darkorange;
+        width: 100px;
+        height: 40px;
+        border-radius: 30px;
+        border-style: double;
+        cursor: pointer;
+    }
+    footer
+    {
+        background-color: darkgrey;
+    }
+    button{
+    background-color: darkgrey;
+    }
+
